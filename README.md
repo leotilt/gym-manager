@@ -23,6 +23,9 @@
 
 O Gym Manager é uma aplicação web de gerenciamento de academia, responsável pelo controle de instrutores e membros. Desenvolvido durante o bootcamp [LaunchBase](https://rocketseat.com.br/launchbase) da [Rocketseat](https://rocketseat.com.br/). 
 
+![Demo1](https://github.com/leotilt/gym-manager/blob/main/src/assets/to_readme/demo%201.gif)
+![Demo2](https://github.com/leotilt/gym-manager/blob/main/src/assets/to_readme/demo2.gif)
+
 
 <br>
 
