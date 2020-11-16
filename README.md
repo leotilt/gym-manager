@@ -25,6 +25,8 @@ O Gym Manager é uma aplicação web de gerenciamento de academia, responsável 
 
 
 ![Demo2](https://github.com/leotilt/gym-manager/blob/main/src/assets/to_readme/demo2.gif)
+
+
 ![Demo3](https://github.com/leotilt/gym-manager/blob/main/src/assets/to_readme/demo3.gif)
 
 <br>
