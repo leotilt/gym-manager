@@ -57,7 +57,7 @@ Para rodar a aplicação, você precisa ter instalado em sua máquina o [Node](h
 Siga os passos abaixo:
 ```bash
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/martins-rafael/gym-manager.git
+$ git clone https://github.com/leotilt/gym-manager.git
 # ou use a opção de download.
     
 # Entre na pasta com 
