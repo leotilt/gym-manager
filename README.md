@@ -5,8 +5,6 @@
 
 
 
-<img align="right" src=".github/dumbbell.png?raw=true" width="35%">
-
 ## Tópicos 
 
 [Sobre o Gym Manager](#sobre-o-gym-manager)
@@ -24,8 +22,6 @@
 ## Sobre o Gym Manager
 
 O Gym Manager é uma aplicação web de gerenciamento de academia, responsável pelo controle de instrutores e membros. Desenvolvido durante o bootcamp [LaunchBase](https://rocketseat.com.br/launchbase) da [Rocketseat](https://rocketseat.com.br/). 
-
-
 
 
 <br>
