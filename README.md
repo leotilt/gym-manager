@@ -2,16 +2,8 @@
 
 <p>Sistema web de gerenciamento de academia.</p>
 
-<p>
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/martins-rafael/gym-manager?color=7159c1&style=flat-square">
-  <img alt="GitHub Top Language" src="https://img.shields.io/github/languages/top/martins-rafael/gym-manager?color=7159c1&style=flat-square">
-  <a href="https://opensource.org/licenses/MIT">
-    <img alt="License" src="https://img.shields.io/badge/license-MIT-7159c1?style=flat-square">
-  </a>
-  <a href="https://github.com/martins-rafael/gym-manager/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/martins-rafael/gym-manager?color=7159c1&style=flat-square">
-  </a>
-</p>
+
+
 
 <img align="right" src=".github/dumbbell.png?raw=true" width="35%">
 
@@ -33,13 +25,8 @@
 
 O Gym Manager é uma aplicação web de gerenciamento de academia, responsável pelo controle de instrutores e membros. Desenvolvido durante o bootcamp [LaunchBase](https://rocketseat.com.br/launchbase) da [Rocketseat](https://rocketseat.com.br/). 
 
-<p align="center">
-  <img src=".github/screenshot.png" alt="página principal">
-</p>
 
-<p align="center">
-  <img src=".github/demo.gif" alt="demonstração">
-</p>
+
 
 <br>
 
